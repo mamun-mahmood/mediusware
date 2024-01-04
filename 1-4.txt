@@ -1,0 +1,33 @@
+Users: 
+	>Employees: Header is not matching, 
+	> Profile: missing workload
+	> Need to add filter and 3 dots option like figma
+	> "Workload" tab is missing
+	> Chat option not working
+	> View Profile has CSS Issue
+	> Sort by option not working
+	
+Clients: 
+	> Add new client (cant select company), 
+	>error message saying "The role id field is required" 
+	but there is no role id field in the Add Client page
+	> Edit client profile (update issue, field missing, not matching with figma)
+	> Chat option not working
+	>
+Client Comapanies:
+	> Search, Filter, Searchbar scrolling, header is not matching with figma
+	> 
+	
+Roles: 
+	> change btn txt update to save
+	> checkbox not working
+	> Sort By, Filter, & 3 dots not working
+	> Change "Administrator" to "Custom Role"
+	> 
+Teams: 
+	> Need to add filter option
+	> Sort and 3 dots not working
+	> CSS issue
+	> Add Team -> CSS Issue
+	> Edit Team -> change "Update" button to "Save" like figma design
+	> Team -> New Assignment -> "Assign" button is missing

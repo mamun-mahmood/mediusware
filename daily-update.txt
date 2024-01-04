@@ -28,3 +28,14 @@
 8. added: search employees
 9. client search update
 10. client compnay search added
+
+04 - Jan - 2024
+
+1. search update
+2. added: client company filter
+3. search field update
+4. updated search result message
+5. updated role and user page header
+6. directory css updated
+7. R&D on Directory
+
