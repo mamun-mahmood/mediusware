@@ -1,0 +1,30 @@
+01 - Jan -2024
+
+1. added: calender api
+2. added: activity screen
+3. added: activity listing and api
+
+02 - Jan -2024
+
+1. added: new task assign button on profile
+2. comment modal button floating
+3. added: client company page
+4. added: client company fetching api and listing
+5. added: ClientCompanyDetailsScreen
+6. added: company details
+7. added: client company
+8. added: company client list
+
+
+03 - Jan - 2024
+
+1. added: user assign in client company profile
+2. added: image picker in new client company
+3. added: image picker
+4. update: profile activity
+5. added: client company create functoinality
+6. client page update
+7. added client search
+8. added: search employees
+9. client search update
+10. client compnay search added
