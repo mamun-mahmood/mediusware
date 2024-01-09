@@ -1,0 +1,20 @@
+1-5
+* Project setup and overview
+* added multiselect dropdown for Standard Discount  and Other Benefits on Group ADD
+
+1-8
+
+1. Group Update Fixes, added date filed.
+2. Added percentage suffix.
+3. Group creating
+4. added: Group fetching and Editing
+5. group refetching and cache invalidation
+
+1-9
+1. group layout update
+2. added: group delete with modal and alert
+3. fixed group card text over flow and modal position
+4. added search
+5. group page fixes
+6. updated group searchh
+7. group delete update
