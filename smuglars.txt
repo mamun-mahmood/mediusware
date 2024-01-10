@@ -16,5 +16,13 @@
 3. fixed group card text over flow and modal position
 4. added search
 5. group page fixes
-6. updated group searchh
+6. updated group search
 7. group delete update
+
+1-10
+1. manage group page update
+2. added group profile page
+3. group profile p2
+4. group page p3
+5. Edit group and page layout fixed
+6. group profile update
