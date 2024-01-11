@@ -26,3 +26,13 @@
 4. group page p3
 5. Edit group and page layout fixed
 6. group profile update
+
+1-12
+1. group profile update
+2. added group customers
+3. added group update in group profile page
+4. Group profile update on form submit, cancle, customer fetching
+5. added: customer api, displaying customers
+6. removed filter manage groups
+7. added image upload in group profile page
+8. Refactor EditGroup component and add triggerSubmit functionality
