@@ -36,3 +36,14 @@
 6. removed filter manage groups
 7. added image upload in group profile page
 8. Refactor EditGroup component and add triggerSubmit functionality
+
+1-13
+
+1. manage groups and customers code cleanups
+2. worked on manges group, added loading state, refactored json data and try catch
+3. added customer update in customer profile
+4. added customer profile
+5. admin notes fixed
+6. Update Manage Groups and customers layout and responsive grid
+7. group page update: added admin notes, redirect to customer profile
+
