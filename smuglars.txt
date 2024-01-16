@@ -52,3 +52,17 @@
 1. mange customer and group fixes: css, data field
 2. Mange groups & customers: fix UI issues and improve functionality
 3. added: pagination and search in manage customers
+
+
+1-16
+
+1. Update default values for total_sales and dob in CustomerCard.jsx
+2. manage customers filter and search
+3. updates CustomerCard and ManageCustomers components
+4. added group in customer profile
+5. added store wise manage groups and customers
+6. graph update for customer and group profile
+7. added: pagination and search in manage customers
+8. manage customers filter and search
+9. updates CustomerCard and ManageCustomers 
+
