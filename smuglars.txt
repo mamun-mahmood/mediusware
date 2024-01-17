@@ -66,3 +66,13 @@
 8. manage customers filter and search
 9. updates CustomerCard and ManageCustomers 
 
+
+1-17
+
+1. fixed assign store filter, form submitting.
+2. customer profile update
+3. Fix display name and name order in EditAddGroupContent and update GroupCard component
+4. Update manage customer order, added orders on customer profile page
+5. customer order update
+6. revamped manage customer search, filter and pagination with managing state in redux globally
+
