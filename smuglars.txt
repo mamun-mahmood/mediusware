@@ -76,3 +76,13 @@
 5. customer order update
 6. revamped manage customer search, filter and pagination with managing state in redux globally
 
+
+1-18
+
+1. next config and cs ordercard update
+1. added mange tags, targs create and update, tags on customer profile
+3. mange tags update: added tags delete and
+4.update customer profile and manage customers components: search, filter and tags update
+5. worked on store assign
+
+
