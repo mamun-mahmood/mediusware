@@ -95,3 +95,11 @@
 5. update: mange group, customer, tag. Fixed Edit, Create tag, groups edit etc
 6. update group name should be unique
 7. update: manage group pagiantion, search. Manage customer: group affialiton, filter reset
+
+22-01-2024
+
+1. update: manage customer, manage tags
+2. assgin store bug fixed, active admin, date missing, data not fetching etc
+3. fixed: mange customer filter, group affiliation
+4. UPDATE: customer order, order editing, adding description to order, customer filter
+5. update: group profile image upload, changed playload with formData, fixed customer card data field
