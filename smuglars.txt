@@ -111,3 +111,15 @@
 3. update new support ticket: ticket create, added select options
 4. support ticket update: added form validation
 5. update manage tickets. added search, filter, data fileds on card
+
+
+1-24
+
+
+
+1. Support Ticket: added filter, paginaiton, fixed reset data, page redirect
+2. support ticket: Added multiple file upload, store selection
+3. update: customer type select, tickets filter, added store selections
+4. update mange tickets
+5. Support Ticket: added Section, Sub Section, Page. Added page menu routes.
+
