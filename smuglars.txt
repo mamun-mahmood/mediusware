@@ -123,3 +123,11 @@
 4. update mange tickets
 5. Support Ticket: added Section, Sub Section, Page. Added page menu routes.
 
+1-25
+
+1. support ticket update: fixed selections, added data fields, css fixed
+2. Update: View Support Ticket
+3. added pdf preview, download
+4. update: manage supprot ticket
+5. manage admin issues fixed
+6. update: Support Ticket role wise creations, added search and filter params
