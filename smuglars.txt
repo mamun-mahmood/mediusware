@@ -131,3 +131,23 @@
 4. update: manage supprot ticket
 5. manage admin issues fixed
 6. update: Support Ticket role wise creations, added search and filter params
+
+1-26
+
+1. ticket update: refetching response after add
+2. update: Support TIckets
+3. update: support ticket VIew Deatils Route, Next Config.
+4. image preview added for ticket
+5. update ticket filter
+6. minor fixes on support ticket
+7. view details route added for ticket page
+8. fixed: store owner ticket issue
+9. Group Create Bux FIX
+
+1-29
+
+1. update: admin and group bug fix
+2. Updates mange customer, manage group. 
+Fixed Bugs and functionality.
+3. Refactor customer-related components and fix image upload issue.
+4. Added cusomter profile Image upload, fixed css issues in customer hub
