@@ -151,3 +151,13 @@
 Fixed Bugs and functionality.
 3. Refactor customer-related components and fix image upload issue.
 4. Added cusomter profile Image upload, fixed css issues in customer hub
+
+
+1-30
+
+1. Added API for store schedule
+2. Added Delivery Hours Settings update
+3. Added profile, Store Opening & Closing
+4. manage customer group fix, tags not updating fix, store wise customer fetching
+
+
