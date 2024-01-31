@@ -160,4 +160,10 @@ Fixed Bugs and functionality.
 3. Added profile, Store Opening & Closing
 4. manage customer group fix, tags not updating fix, store wise customer fetching
 
+1-31
+
+1. added exccel upload page and APIs for upload recemondation
+2. update recommendaton
+3. update recommendation layout, added cards, create recommendation modal fixed
+4. updates: recommendation card view, added recommendation detail modal, showing Excel data in Table
 
