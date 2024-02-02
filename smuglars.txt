@@ -167,3 +167,19 @@ Fixed Bugs and functionality.
 3. update recommendation layout, added cards, create recommendation modal fixed
 4. updates: recommendation card view, added recommendation detail modal, showing Excel data in Table
 
+2-1
+
+1. update manage customer: fixed cache issue
+2. Schedule authorization fixed
+3. smuglers-support ticket create store id, null message fix
+4. update: Created Manage Tags Global Page for Admins, Customers, Inventory. Added Admin Tag CURD.
+5. 
+Manage Tags Updates: dynamic bereadcrumbd for Manage Tags page, tag fetching for admin setting page
+6. update: fixed inactive tags showing for create admin, fetching tags store wise,
+
+
+2-3
+
+
+1. task update added passed time
+2. Manage Support Tickets layout update
