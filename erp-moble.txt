@@ -39,3 +39,13 @@
 6. directory css updated
 7. R&D on Directory
 
+
+______________________________________
+06, 07- Feb
+
+
+1. R&D on text Editor
+2. Worked on Project deatils page ScrollView 
+3. [fixed] Text editor Description Box scroll fixed, scrolling with cursor position.
+4. [fixed] Text Editor Address Selection Box pushing up with keyboard 
+
