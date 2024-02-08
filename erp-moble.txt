@@ -49,3 +49,13 @@ ______________________________________
 3. [fixed] Text editor Description Box scroll fixed, scrolling with cursor position.
 4. [fixed] Text Editor Address Selection Box pushing up with keyboard 
 
+
+08-Feb
+---------------------
+
+1. Added Group Member Card Text Ellipssis
+2. Added Member selection and add Member for Group Chat
+3. Added Member Picking with Read Only, Can't Remove Exixting Member. Can't Add or Delete Member is Project
+4. Added Text Ellipssis in Chat Screen and Profile Header
+5. Added New Search Bar with Cross, Search Icon and clear Search Functionality.
+6. Added document preview in Chat
