@@ -59,3 +59,20 @@ ______________________________________
 4. Added Text Ellipssis in Chat Screen and Profile Header
 5. Added New Search Bar with Cross, Search Icon and clear Search Functionality.
 6. Added document preview in Chat
+
+
+
+09- Feb
+--------------
+
+
+1. Added New TextEditor on Issue
+2. Added Editor on Task and MileStone
+3. Milestone issue fixed with Editor
+4. Added Editor on Task and MileStone
+5. Editor Positioning issue fixed for Task And Issue
+6. Added PlaceHolder text for Editor
+7. Added Search for Chat List
+8. Added Media Selection and Fixed Filename issue in ChatMenuScreen
+9. Update on Issue. Fixed Editor Position, Keeping Address bar in view
+
