@@ -87,3 +87,12 @@ Project, Task, Isses, Milestone >
 3. update Added Preview Player for recorded audio
 
 
+23 - Feb
+--------------------
+
+1. Update: Added Audio Player in chat.
+2. IOS Audio Playback UPDATE
+3. Update VoiceAttachment Comp
+4. Added Delete Attachment in ChatMenu
+
+
