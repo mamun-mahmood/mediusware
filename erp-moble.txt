@@ -76,3 +76,14 @@ ______________________________________
 8. Added Media Selection and Fixed Filename issue in ChatMenuScreen
 9. Update on Issue. Fixed Editor Position, Keeping Address bar in view
 
+
+Project, Task, Isses, Milestone > 
+
+12 - Feb
+----------------
+
+1. Added Voice Recorder, Record Preview
+2. Added Voice Player for Recording Preview in Chat
+3. update Added Preview Player for recorded audio
+
+
