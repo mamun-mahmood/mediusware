@@ -87,7 +87,7 @@ Project, Task, Isses, Milestone >
 3. update Added Preview Player for recorded audio
 
 
-23 - Feb
+13 - Feb
 --------------------
 
 1. Update: Added Audio Player in chat.
@@ -95,4 +95,10 @@ Project, Task, Isses, Milestone >
 3. Update VoiceAttachment Comp
 4. Added Delete Attachment in ChatMenu
 
+14 -fEB
+---------------------
 
+1. Added Image download in chat, fixed Extension not found,
+2. Added Loading state, Response message Toast in chat Image download
+3. Added Multiple Attachments delete in ChatMenu
+4. Added PDF dowload, added Toast Message, Fix Media Persmission
