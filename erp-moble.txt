@@ -95,10 +95,18 @@ Project, Task, Isses, Milestone >
 3. Update VoiceAttachment Comp
 4. Added Delete Attachment in ChatMenu
 
-14 -fEB
+14 -Feb
 ---------------------
 
 1. Added Image download in chat, fixed Extension not found,
 2. Added Loading state, Response message Toast in chat Image download
 3. Added Multiple Attachments delete in ChatMenu
 4. Added PDF dowload, added Toast Message, Fix Media Persmission
+
+15 -Feb
+----------------------
+1. updated version 155
+2. Update for IOS Playback isuse. [Need to rebuild ]
+3. Added Video Saving Funciton for Chat
+4. updated version 155
+
