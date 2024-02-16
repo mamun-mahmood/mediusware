@@ -110,3 +110,13 @@ Project, Task, Isses, Milestone >
 3. Added Video Saving Funciton for Chat
 4. updated version 155
 
+
+16 - Feb
+---------------
+1. Version update 157, New build setup for IOS 17
+2. Project Description Editor Text
+3. Audio Duplicate Recorder Fix
+4. Updated fix Camera ChatScreen Recorder, Audio Player
+5. Added palying in Loudspeaker
+6. Added SupportList Page and Card comp
+7. Added Support Ticket Card
