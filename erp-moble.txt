@@ -120,3 +120,13 @@ Project, Task, Isses, Milestone >
 5. Added palying in Loudspeaker
 6. Added SupportList Page and Card comp
 7. Added Support Ticket Card
+
+
+22 - Feb
+--------------
+Moblie:
+1. Addded User Serach In Group Create
+2. Fix member card pressability and Search Field in ChatCreateGroup
+Admin Portal
+1. Added Missing Fields, Buttons, fixed css issues in Create Module Modal
+2. Added dnyamic Feature DropDown
