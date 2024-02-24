@@ -132,12 +132,4 @@ Admin Portal
 2. Added dnyamic Feature DropDown
 
 
-23 - Feb
-Admin Portal
-1. Update Module Create: Added dynamic feature select and delete, form Validation, submitting data to next step
-2. Added Module Preview, Create API
-3. Added Error altert
-4. Update: Fixed Moudle Listing
-5. Added Module Update
-6. Commented undone menus from Sidebar
-7. Fixed Feature ID missng, feature selecting
+

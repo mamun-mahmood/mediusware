@@ -1,0 +1,23 @@
+23 - Feb
+Admin Portal
+1. Update Module Create: Added dynamic feature select and delete, form Validation, submitting data to next step
+2. Added Module Preview, Create API
+3. Added Error altert
+4. Update: Fixed Moudle Listing
+5. Added Module Update
+6. Commented undone menus from Sidebar
+7. Fixed Feature ID missng, feature selecting
+
+24 - Feb
+
+1. Update useGetAllFeaturesQuery to include allData parameter
+2. Fixed Delete Modal, Table Action Option
+3. Added Moudle Delete with name Alert
+4. Fixed Pagination Issues.
+5. Added delete state
+6. Added Paymet Method List Page, Create Modal
+7. Added Payment Method Edit and Delete
+8. Changed Method Name Select Options
+9. Added ModalView, Nested Modal Opening for Edit
+10. Added odd BG for Method list table
+11. Cleanups with minor fixes
