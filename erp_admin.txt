@@ -21,3 +21,12 @@ Admin Portal
 9. Added ModalView, Nested Modal Opening for Edit
 10. Added odd BG for Method list table
 11. Cleanups with minor fixes
+
+25 - Feb
+
+1. Module Preview CSS fixed
+2. Added Module Field Add and Delete, Fxied CSS
+3. Plan List Create Modal Added Dynamic Fields, Form Validation, Extracting All data to payload
+4. Add createPlan mutation and allCurrency query, Update Create Modal and added Preview Modal
+5. Update pagination and paymentMethods in PlanListTable and add onSuccess callback in ViewPlan.
+
