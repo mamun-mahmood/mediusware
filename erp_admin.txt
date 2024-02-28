@@ -30,3 +30,27 @@ Admin Portal
 4. Add createPlan mutation and allCurrency query, Update Create Modal and added Preview Modal
 5. Update pagination and paymentMethods in PlanListTable and add onSuccess callback in ViewPlan.
 
+
+27 - Feb
+
+1. Moved planSetting to Client
+2. Added Plan Details Fetching, Show data on Edit Modal
+3. Added Rendering the Modules field dynamically on Edit Plan Setting
+4. View Plan FIxed
+5. Added Plan Setting Update Done
+5. Add Goto Edit and Closing in VIew Modal
+6. Added Plan setting Delete
+
+28 - Feb
+
+1. Worked on PlanUpdate. Fixed Moudle Select, Serial Field
+2. Showing Currency with Symbol Only
+3. Update Edit PlanList, Added TypeScrtipt Interface and removed TypeError
+4. Created TS Interfeace, CSS Fixed
+5. Fixed edit data sometimes not show on opening modal
+6. Brought Back Organization Assign
+7. Worked on Assign Organizaion feature. Fixed Modal redering issue. Added Recent Org selection, showing pre selected orgs.
+8. Add showSearch to Select component and invalidate recent org chache
+9. Plan setting Update, Added New Succes Alert, worked on some other issues
+
+
