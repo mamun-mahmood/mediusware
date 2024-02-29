@@ -132,4 +132,13 @@ Admin Portal
 2. Added dnyamic Feature DropDown
 
 
+29 - Feb
+-----------------
+1. Fix background color bug in SupportCaseCard
+2. Added CreateSupportPageScreen Comp
+3. Added Subject, Type, Prioriy and Description filed.
+4. Added Attachment Select And Delete
+5. Added form validation, made request payload, added api endpoints
+6. Added Create Sppourt Case.
+7. Support Create working and Refetching list after create.
 
