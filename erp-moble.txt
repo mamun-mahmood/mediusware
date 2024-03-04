@@ -150,3 +150,10 @@ Admin Portal
 4. Added Support Case details API, showing Deatils on Case Details Tab
 5. Impletented RTK query, added caching for support Apis.
 6. Added RTK tagtypes for cache invalidation
+
+4 - March
+1. Added Support Case Update Feature
+2. Added Resource tab view and comps, update ApiSlice
+3. Support Create Upload
+4. Support Case Infitine Scroll, Update on RTK query caching.
+
