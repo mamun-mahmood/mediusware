@@ -157,3 +157,13 @@ Admin Portal
 3. Support Create Upload
 4. Support Case Infitine Scroll, Update on RTK query caching.
 
+
+5 - March
+
+1. Support Case Close update, optimized status update
+2. Added useMemo, optimized re-rendering SupportCase Card on state change
+3. Added pull to Refresh for New Data, Pagination With Caching, Updating List with new Case
+4. Update on Support List. Added Loading state for Fetching more with Infinite scroll
+5. Added attachment upload, util func for formData
+6. Fixed Listing, Pagination, case upate
+
