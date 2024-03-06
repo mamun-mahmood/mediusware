@@ -1,0 +1,6 @@
+6-3-2024
+----------------
+
+1. Project Setup
+2. R&D on frontend and Api
+3. REST Api Listing
