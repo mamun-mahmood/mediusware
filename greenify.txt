@@ -4,3 +4,9 @@
 1. Project Setup
 2. R&D on frontend and Api
 3. REST Api Listing
+
+7-3-2024
+----------------
+
+1. Added Signup Page with Form and field validations
+2. Added custom Form Fields and Input Buttons to Reuse Matching Figma
