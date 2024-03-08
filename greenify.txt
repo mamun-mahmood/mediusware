@@ -10,3 +10,11 @@
 
 1. Added Signup Page with Form and field validations
 2. Added custom Form Fields and Input Buttons to Reuse Matching Figma
+
+8 - 3 - 2024
+
+1. Added Suggestor Page and Banner Section
+2. Added Suggestor Page Cards Section
+3. Signup form Completed with CheckBox, Google Signup Button, and rest.
+4. Select Option Fixed
+
