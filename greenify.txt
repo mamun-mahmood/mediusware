@@ -18,3 +18,10 @@
 3. Signup form Completed with CheckBox, Google Signup Button, and rest.
 4. Select Option Fixed
 
+11 - 3 - 2023
+
+1. Created Green Home Table
+2. Added table for Smart Homes
+3. Added Get Started Bottom Section
+4. Fixed Text Sizing 
+5. Table Responsiveness Fixed
