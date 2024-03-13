@@ -1,0 +1,7 @@
+13 - 03 - 2024
+1. Database config and Backed setup
+	https://github.com/Klevere/Klevere-UI/commit/68857bcb9e3e086ceabd742eb50340b146b5e1dd
+2. Added hover on buttons and toast for text copying.
+	https://github.com/Klevere/Klevere-UI/commit/68857bcb9e3e086ceabd742eb50340b146b5e1dd
+3. Explored kleverePipelines backend
+	https://github.com/shaheen2013/

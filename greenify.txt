@@ -25,3 +25,8 @@
 3. Added Get Started Bottom Section
 4. Fixed Text Sizing 
 5. Table Responsiveness Fixed
+
+12 -3 -2024
+1. Worked on Mobile View, and Added Suggest Card
+2. Search Fixed to top on Scrolling
+3. Add show more functionality to Card component
