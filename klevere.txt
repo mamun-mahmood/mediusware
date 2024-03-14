@@ -1,7 +1,18 @@
 13 - 03 - 2024
-1. Database config and Backed setup
+1. Database config and Backed setup [1h]
 	https://github.com/Klevere/Klevere-UI/commit/68857bcb9e3e086ceabd742eb50340b146b5e1dd
-2. Added hover on buttons and toast for text copying.
+2. Added hover on buttons and toast for text copying. [1h]
 	https://github.com/Klevere/Klevere-UI/commit/68857bcb9e3e086ceabd742eb50340b146b5e1dd
-3. Explored kleverePipelines backend
+3. Explored kleverePipelines backend [1h]
 	https://github.com/shaheen2013/
+	
+	
+14 - 04 - 2024
+---- Frontend
+1. Added custom.gpt.service, changed controller.
+2. Changed Response for generateWebsiteFeedback service
+3. Removed Custom GPT from social caption, Fixed Feedback To Webpage response
+---- Backend 
+1. Changed API for WebsiteFeedback,
+2. Fixed Social Response, Removed customGPT hook
+
