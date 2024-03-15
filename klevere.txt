@@ -7,7 +7,7 @@
 	https://github.com/shaheen2013/
 	
 	
-14 - 04 - 2024
+14 - 03 - 2024
 ---- Frontend
 1. Added custom.gpt.service, changed controller.
 2. Changed Response for generateWebsiteFeedback service
@@ -16,3 +16,8 @@
 1. Changed API for WebsiteFeedback,
 2. Fixed Social Response, Removed customGPT hook
 
+15 - 03 - 2024
+---Backend
+1. Added AppSumo Module
+2. Added Service for appsumo event.
+3. Added Method for Webhook Events
