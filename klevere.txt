@@ -21,3 +21,33 @@
 1. Added AppSumo Module
 2. Added Service for appsumo event.
 3. Added Method for Webhook Events
+
+18 -03 - 2024
+----Backend
+1. Added verifyAppSumoToken Method, Using method in Regitraions Service. Added Env Configs. Added Axios HTTP Request Module
+2. Find Solution for Webhook URL and redirect URL setup in AppSumo Portal. verifyAppSumoToken is working. Extracting accessToken from response and error state.
+3. Added processAppSumoCode method.
+AppSumo LicenseKey fetching with accessToken,
+4. Added try-catch in webhook methods for error handling
+5. Added is_appsumo column in Users table.
+Verfiying Appsumo user with license key and updateing user table.
+Updated register Service for auth operations
+
+----Frontend
+1. Sending appsumo code with Signup payload for verifying subscription
+
+
+19 - 03 - 2024
+----Backend
+1. Update Registration method for AppSumo.
+Added user_id column in table.
+Inserting user_id in appsumo_license table after license verificaiton.
+2. Added appsumo onboarding.
+Updateing license with user_id.
+Inserting Subscription and Plan.
+3. Methode seperated for License verify.
+Checking if License has been used already.
+----Frontend
+1. Added appsumo in User model.
+Types and name added for wordsLimit, Images Limit,creditsLimit in Graphics Area.
+Fixed default error case
