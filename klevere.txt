@@ -40,14 +40,14 @@ Updated register Service for auth operations
 19 - 03 - 2024
 ----Backend
 1. Update Registration method for AppSumo.
-Added user_id column in table.
+Added user_id column in table. [2H]
 Inserting user_id in appsumo_license table after license verificaiton.
 2. Added appsumo onboarding.
 Updateing license with user_id.
-Inserting Subscription and Plan.
+Inserting Subscription and Plan. [2H]
 3. Methode seperated for License verify.
-Checking if License has been used already.
+Checking if License has been used already. [1.5H]
 ----Frontend
 1. Added appsumo in User model.
 Types and name added for wordsLimit, Images Limit,creditsLimit in Graphics Area.
-Fixed default error case
+Fixed default error case. [1.5H]
