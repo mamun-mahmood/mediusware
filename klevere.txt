@@ -51,3 +51,109 @@ Checking if License has been used already. [1.5H]
 1. Added appsumo in User model.
 Types and name added for wordsLimit, Images Limit,creditsLimit in Graphics Area.
 Fixed default error case. [1.5H]
+
+20 - 03 - 2024
+-----Backend
+1. Fixed appsumo license fetching
+
+-----Frontend
+1. Google Button hiding, if user is from AppSumo
+2. Added AppSumo Tiers Enum and Types.
+3. Revert CombineWorkFlow Changes
+
+21 -3 -2024
+----Backend
+1. Added new methods for appsumo license. License will be verified before user create, and throw errors.
+Reverting new user if cannot assign lincense.
+2. EmailGuard Error response Fixed.
+3. UPDATE -fetchAppSumoLicenseWithAccessToken Method
+4. Appsumo User can’t login if license is not active.
+5. Added Google auth with appsumo
+----Frontend
+1. Sending app sumo code on google login payload.
+2. Code store to session storage, sending to login and signup with Google and code removed from URL
+3. Checked and Veryfing Appsumo flow and finding corner case.
+
+
+22 - 03 - 2024
+----Frontend 
+1. Removing Code from SessionStorage on Form Submit
+2. Fixed uncaught error on google login.
+3. Usage and Action Columns.Select Menus fot Action Option.
+----Backend
+1. Fixed user_id null when deactivating License.
+Check for license while login.
+2. Created Upgrade method. Updating app_sumo_license table with new tier upgrade.
+3. Added Tier Upgrade Method. User Subscription will be upgraded from AppSumo Tier.
+4. Added Appsumo Tier Downgrade Method.User Subscription will downgrade from Appsumo Tier.
+5. Appsumo Downgrade. Remove user and logout from Website if Refunds from Appsumo.
+After deactivaion User can relogin with new AppSumo Account with New License.
+
+25 - 03 - 2024
+-----Backend
+1. Trace Appsumo Webhook Failures.
+2. Appsumo Webhook signature verification for endpoint Security.
+3. Prevent Unauthorized access to Webhook Endpoint 
+4. Webhook failure Fix. 
+5. Appsumo Tier Upgrade,  Downgrade and Deactivation flow. 
+6. Appsumo User can Login with  Google to Active Subscription.
+7. Added admin_id column to Company Table. 
+8. Passing user_id as admin_id while company creating.
+
+26 - 03 - 2024
+----Frontend
+1. Added is_admin flag. Disable Invite option is user is not Admin.
+2. Fetching Company members with api from backend.
+----Backend
+3. Updated company tables with many to one relation with User.
+4. New endpoint for Company and Member data from user table.
+
+27 -3 - 2024
+----Backend
+1. Join table company_users for tracking Copany members. Update service for returning users and companies.
+2. Update for company user. Insert new user_id and company id in company_user table.
+3. Added MakeAdmin service and controllers for Admin Update.
+4. MailService update for emial not found
+----Frontend
+1. Listing member in table. Select Box for Usage column. Update Member table CSS
+2. Added api for Make Admin. Update Member table on admin mutaion.
+3. Admin Validation for Make Admin option
+4. Table update, css fixes
+
+28 - 03 - 2024
+----Frontend
+1. User invitaion Limit fixed
+2. Added Pagination tab for members table.
+3. Added Member status change Query.Update Member status active/inactive. Toast alert on status change
+4. Updated login alert for inactive user
+5. Added Pagination for members Table
+6. Disable action toggle for Admin
+7. Showing User usage in member table
+---Backend
+8. Removed Company users.Fetching user from user table with company name.
+9. Fixed Company name breaking in inviation url.
+10. Company controller and service added to change user status.
+Added User subscription_status check while login.
+Inactive user can't login.
+11. Added Pagination in members service and page query in controller.
+
+29 - 03 - 2024
+----Frontend
+1. Added Api for admin allocate user limit Muation
+2. Added UserLimit Modal. Modal Open/Close from Admin action btn
+3. Added User Limit Form for assigning limit. 
+4. Api integrated with Save Changes.
+5. Admin UserLimit Allocation done.
+6. Showing user Usage and Limit assigned by admin.
+7. Company members Usage history.
+8. Showing Plan information to User
+----Backend
+9. Method for company service to allocate user limit.
+10.Added CompanyUserLimit table.
+11. New controller for company endpoint.
+12. Joined UserLimit with User table.
+13. All users will have userLimit if available from company.
+14. Update and Create userLimit entries. Update limit if Exists or Create new.
+15. Added checkUserLimit Method.
+16. Fetching user limit assinged by the company admin.
+17 .CombinedForm component to support dynamic form columns
