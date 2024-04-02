@@ -157,3 +157,38 @@ Inactive user can't login.
 15. Added checkUserLimit Method.
 16. Fetching user limit assinged by the company admin.
 17 .CombinedForm component to support dynamic form columns
+
+01 - 04 - 2024
+-----Frontend
+1. Fixed getComapany API payload.
+2. Added user_id in query for GetCompany.
+3. Fixed billing area typo.
+4. Added admin_id in query payload.
+5. Company left message change for user and admin.
+6. Hiding invite button for user.
+7. Negative use limit fixed
+8. Add styling and functionality to UserLimitModal component
+----Backend
+1. Fixed getComapany API payload.
+2. Added user_id in query for GetCompany.
+3. Fixed billing area typo.
+4. Added admin_id in query payload.
+5. Company left message change for user and admin.
+6. Hiding invite button for user.
+7. Negative use limit fixed
+8. Add styling and functionality to UserLimitModal component
+
+02 - 04 - 2024
+----Frontend
+1. Add currentAnswer prop to CombinedGeneration.
+2. Added activityServiceApi and create activity api.
+3. Added save activity with form validation.
+4. Update RTK query. Added apiSlice in added.
+5. Update on activity listing.
+6. Navigation to CombineForm page from list page.
+----Backend
+1. Added create and findAll activity service.
+2. Added Database entity for Activity.
+3. Update activity module, Added new columns in activity entity.
+4. Fetching activing and listing in Recent Activity page.
+5. Added service to fetch activity details with uuid
