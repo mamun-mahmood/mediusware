@@ -192,3 +192,25 @@ Inactive user can't login.
 3. Update activity module, Added new columns in activity entity.
 4. Fetching activing and listing in Recent Activity page.
 5. Added service to fetch activity details with uuid
+
+03 - 04 - 2024
+----Frotnend
+1. Fetching activity data with UUID.
+2. Settng Form value from api data.
+3. Added Params for pagination
+4. Update for Activity update or create.
+5. Refactor CombinedForm component.
+6. Setting all input field value with saved data from API
+7. Activity Delete funtionality
+8. Added new table block.
+9. Updated alert message.
+10. Update RecentActivityPage.tsx to adjust the width and alignment of the date column
+11. Refactor date formatting in RecentActivityPage.tsx
+12. Created Date format function.
+---Backend
+1. Added Activity Update or Create.
+2. Activity service, controller and entity udpated.
+3. Added skip, limit and hasMore for pagination.
+4. Added Activity delete api
+5. Activity service and create activity DTO
+
