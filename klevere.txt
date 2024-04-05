@@ -214,3 +214,40 @@ Inactive user can't login.
 4. Added Activity delete api
 5. Activity service and create activity DTO
 
+04 - 04 - 2024
+1. Fixed New member has no words/credits assigned.
+2. Replaced admin flag with user role.
+3. Update API URL and fix formatting in CurrentPlanBlock component.
+4. Changed admin flag with current user role
+5. Fix useMemo dependency array in GraphicsArea component
+6. Update on Activity save.
+7. Added function to save Activity data.
+8. Pass function to ChatGPT and Relevance for and call with GPT response to update Activity with newest Response.
+9 .Changes Activity api tags.
+----Backend
+1. Added User Role in resgister method.
+2. Admin role will be assigned with new company.
+3. Company checkUserLimit updateCompany checkUserLimit update
+4. Refactor activity service.
+5. Added activity deletion more than 30
+
+05 -04 - 2024
+1. Refactor CurrentPlanBlock component.
+2. Find and Fixed Plan bug in billing section.
+3. Admin and User Role seprated
+4. Update billing page.
+5. Replaced with new API for plan and usage data.
+
+
+------Backend
+1. Roles and permission Bug trace.
+2. Updating old and new admin when admin change.
+3. Added new methods for company PlanInfo.
+4. Enpoint to get plan, total usage and usage limit.
+5. Admin will get company plans limit.
+6. Member will get assigned limit.
+7. Added member ordred by role ADMIN
+8. Add useRef hook and ExportCSVBtn component
+8. Added getTotalAssignedLimits Method.
+9. Implemented company total allocated vs total limit to prevent over allocation.
+
