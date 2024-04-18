@@ -251,3 +251,22 @@ Inactive user can't login.
 8. Added getTotalAssignedLimits Method.
 9. Implemented company total allocated vs total limit to prevent over allocation.
 
+18 - 04 - 2024
+-------Frontend
+1. Refer code fix
+2. Refer Page code cleanup.
+3. Get refer code from url.
+4. Added referral code in auth payload.
+5. Added Api service for Refer.
+6. Added data fetching and updated table with reffered user data.
+7. Added pagination for user table
+------Backend
+1. Added refer creation on user registation
+2. Added new referal mthod and service.
+3. findReferredUsers method with custom query to find user and subscription.
+4. Update user query method, modified response with purchase info.
+5. Added Pagination.
+
+
+
+
