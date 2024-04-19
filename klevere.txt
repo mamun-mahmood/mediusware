@@ -268,5 +268,23 @@ Inactive user can't login.
 5. Added Pagination.
 
 
+19 - 04 - 2024
+-------Frontend
+1. Added pagination logic to check hasMore data in table ReferralMembersArea.tsx
+2. Refactor ProfilePage component in ProfilePage.tsx
+3. Added tab hiding based on plan and admin
+4. Added api for member stats.
+5. Showing Percentage of purchased members.
+6. Refactor ProfilePage component in ProfilePage.tsx
+7. Fix conditional rendering of tabs based on user role and plan
 
+------Backend
+1. Refactor referral.controller.ts to use @query instead of @param for page parameter in findReferredUsers method
+2. Added findReferredUsers method in referral.service.ts to include totalCount and pagination
+3. update referral.entity.ts and referral.service.ts.
+4. Fixed referred_id not setting, added referred_id cloumn
+5. Add Balance and Referral entities and update related modules and services.
+6. Adding points to referrer on user payment.
+7. Added api for member stats.
+8. Percentage of purchased members.
 
