@@ -288,3 +288,15 @@ Inactive user can't login.
 7. Added api for member stats.
 8. Percentage of purchased members.
 
+22 - 04 - 2024
+-------Backend
+1. Refactor balance.entity.ts and related modules.
+2. Added secondary blance check in LimitGurad.
+3. Added BlanceRepo in GPT service.
+4. Update updateContent method for balance usage update.
+5. Updated LimitGuard.
+6. Added isUsingSecondaryBalance method to check and update blance.
+7. Fix balance usage update in GptService
+8. Update balance.entity.ts
+9. Added updateExpiredDate method for expire_at
+
