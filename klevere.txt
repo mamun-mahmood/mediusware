@@ -300,3 +300,24 @@ Inactive user can't login.
 8. Update balance.entity.ts
 9. Added updateExpiredDate method for expire_at
 
+23 - 04 - 2024
+------Backend
+1. Add points field to UpdateBalanceDto and Balance entity.
+2. Added earning in stats api
+3. balance expire date set to 365 days
+4. Added for balance stats api
+5. Added controller for getBlance
+6. Added balanceStats service
+7. Update balance entitiry
+------Frontend
+1. Refactor ReferralProgram component and add QuickAccessArea component
+2. Updated Stats Page.
+3. Fixed CSS designs.
+4. Added Tooltip for cards.
+5. Refferal Page code Cleanups.
+6. Fixed Tooltips for all cards
+7. Image download and copy
+8. Add balanceServiceApi service.
+9. Added Tab view for balance component.
+10. Showing Balance stats.
+
