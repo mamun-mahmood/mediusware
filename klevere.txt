@@ -321,3 +321,23 @@ Inactive user can't login.
 9. Added Tab view for balance component.
 10. Showing Balance stats.
 
+24 - 04 - 2024
+-----Frontend
+1. Fixed typos in Refer member and stats components.
+2. Added Survey Modal Page
+3. Added is_survey_completed in model
+4. Added check servey status and show modal in Layout
+5. Update Survey Modal
+6. Added worksapce data.
+7. Submit survey data
+8. Added completeSurvey Api Endpoint
+9. Implemented compeleteSurvey api onClick and update UI State
+10. Fixed duplicate keys in sidebar and navdata
+----Backend
+1. Update credits value in updateBalance method of BalanceService
+2. Added is_survey_completed flag to user entity
+3. Added controller and Service for compeleteSurvey api
+5. Udated image limit guard and gpt service.
+6. Use image from balance
+7. Fixed image usage from balance.
+
