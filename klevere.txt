@@ -340,4 +340,19 @@ Inactive user can't login.
 5. Udated image limit guard and gpt service.
 6. Use image from balance
 7. Fixed image usage from balance.
-
+25 - 04 - 2024
+------Frontend
+1. Update SurveyModal component with new profession and location options
+2. Update SurveyModal component.
+3. Showing in homepage, fixed modal look.
+4. Update styling in ModalPage.module.scss and SurveyModal.tsx
+5.Update SurveyModal component with
+6. Added Form Validation and made all filed required.
+7. Refer code box css fixed
+8. Fix balance destructuring in CurrentPlanBlock.tsx
+------Backend
+1. Update company_size property type to string in CreateOnboardSurveyDto and OnboardSurvey entity.
+2. Added servery data in table
+3.Update is_survey_completed flag to default to false in User entity
+4. Fix balance entity to use @BeforeUpdate instead of @BeforeInsert for updating the expired date
+5. Fix balance service to create initial balance if it doesn't exist
