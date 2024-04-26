@@ -356,3 +356,26 @@ Inactive user can't login.
 3.Update is_survey_completed flag to default to false in User entity
 4. Fix balance entity to use @BeforeUpdate instead of @BeforeInsert for updating the expired date
 5. Fix balance service to create initial balance if it doesn't exist
+
+26 - 04 - 2024
+------Frontend
+1. Update survey modal ui.
+2. Form Didived into two parts.
+3. Added Skip, Next and Back button for navigation.
+4. Update SurveyModal component with new workspace selection feature.
+5. Select Multiple Workspace.
+6. Toggle workspace to select or diselect.
+7. Error message for workspace not selected.
+8. Fix toggleWorkspace function in SurveyModal.tsx
+9. Update SurveyModal component with expanded infoSource options.
+10. Added custom input for other source
+11. Update companySize and infoSource options.
+12. Hide Couuntry field
+13. Country field fixed.
+14. Added takeSurvey flag from url in homepage.
+15. Update CurrentPlanBlock component with new tab navigation and tooltips.
+16. Update font size for ModalPage title
+17. Close Survey modal if error happens
+
+-----Backend
+1. Add workflowName parameter to updateContent method in GptService
