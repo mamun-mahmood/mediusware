@@ -379,3 +379,14 @@ Inactive user can't login.
 
 -----Backend
 1. Add workflowName parameter to updateContent method in GptService
+
+17 - 04 - 2024
+------Frontend
+1. Fixed token not found in Api Services.
+2. Update BillingArea and CurrentPlanBlock components with revised text and tab navigation
+3. Refactor SurveyModal component to handle selectedInfoSource properly.
+4. Fix formatting issues in SurveyModal component
+5. Fix first row responsiveness of HomePage.tsx
+6. Added new chart and row columns views.
+7. Fixed spacing, mobile view border radius.
+8. Bug trace in frontend and listed.
