@@ -357,7 +357,7 @@ Inactive user can't login.
 4. Fix balance entity to use @BeforeUpdate instead of @BeforeInsert for updating the expired date
 5. Fix balance service to create initial balance if it doesn't exist
 
-26 - 04 - 2024
+28 - 04 - 2024
 ------Frontend
 1. Update survey modal ui.
 2. Form Didived into two parts.
@@ -380,7 +380,7 @@ Inactive user can't login.
 -----Backend
 1. Add workflowName parameter to updateContent method in GptService
 
-17 - 04 - 2024
+29 - 04 - 2024
 ------Frontend
 1. Fixed token not found in Api Services.
 2. Update BillingArea and CurrentPlanBlock components with revised text and tab navigation
@@ -390,3 +390,18 @@ Inactive user can't login.
 6. Added new chart and row columns views.
 7. Fixed spacing, mobile view border radius.
 8. Bug trace in frontend and listed.
+
+30 - 04 - 2024
+------Frontend
+1. Fixed Usage Rate chart.
+2. Changed Chart Bar color.
+3. Added Random data for bar with no values.
+4. Fixed Responsiveness in Quick Acess area.
+5. Fixed Table Responsiveness in Homepage.
+6. Fixed body font-size for different view port.
+7. Update on Headers and token for api slices.
+8. acitivity api slice update: changed query will url callback and added refreshBase query.
+9. Added base query in apikey service
+10. Added baseQuery in company service and update endpoints.
+
+
