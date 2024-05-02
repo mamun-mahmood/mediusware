@@ -404,4 +404,14 @@ Inactive user can't login.
 9. Added base query in apikey service
 10. Added baseQuery in company service and update endpoints.
 
+2 - 05 - 2024
+------Frontend
+1. homepage recent activity delete modal change.
+2. Update font size in ModalPage module.scss
+3. Added Collaspable Sidebar Mobile view.
+4. Added Sidebar toggle in Homepage.
+5. Added redux staste to toggle sidebar globally.
+6. Added menu options in mobile sidebar.
+7. Added toggling sidebar functionality.
+8. Update MembersArea table alignment
 
