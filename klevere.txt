@@ -415,3 +415,21 @@ Inactive user can't login.
 7. Added toggling sidebar functionality.
 8. Update MembersArea table alignment
 
+3 - 05 - 2024
+------Frontend
+1. Refer Area redesign.
+2. Design change of stats card.
+3. Show parts of refer link.
+4. Added Icons for Refer stats cards from figma
+5. Update UI for Usage Rate chart and add styling improvements
+6. WorkFlow page responsiveness update.
+7. Added Grid view with row columns for cards.
+8. Added grid for workFlowBlocks
+9. Added Navbar toggler in Workflows for Mobile view.
+10. Update CombinedWorkflow Card Height fixed for different view.
+11. Fixed Try Now btn with breaking.
+12. Update mobile sidebar.
+13. Showing all nav options.
+14. Fixed option title not showing.
+15. Added mediaQuery for universal page padding change.
+
