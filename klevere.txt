@@ -433,3 +433,18 @@ Inactive user can't login.
 14. Fixed option title not showing.
 15. Added mediaQuery for universal page padding change.
 
+7 - 05 - 2024
+------Frontend
+1. Update registration form to include invite token and company name
+2. The registration form has been updated to include the invite token and company name as initial values. 
+3. Additionally, the form now hides the company name field if an invite token or company name is present, and displays a message indicating that the user should sign up using the invitation link.
+4. Mobile Nav bottom section fixed for responsiveness
+5. chore: Update form layout and styling in FormArea component.
+6. Fixed responsiveness from chat cards in chat page.
+7. Chat Page: Fix UI Responsiveness
+8. Bottom form area was not responsive on mobile devices. This commit fixes the issue by adding a media query to the form area.
+9. Add  menu button to toggle sidebar in ChatPage
+-----Backend
+1. feat: Add MemberInvitation entity and update auth service to handle user invitations.
+2. User Invitaion with mail and verify signup mail with user email.
+
