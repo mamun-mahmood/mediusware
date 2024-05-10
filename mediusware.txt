@@ -1,0 +1,16 @@
+Today's Update
+------------------
+10 - May -2024
+------------------
+1. Update blog page, added overscroll in left and right section.
+2. Clear comment form after submit.
+3. Added loading state for Comment Button
+4. Project section hide and space added in blogs page.
+5. bg-white added in app layout
+6. Blog tags passed in tags component.
+7. Updated details tag props types and field.
+8. Added Similiar blog fetch with filtering current blog.
+9. Updated BlogTags with category field.
+10. Updated api endpoints with new changes.
+11. Updated AllComments Listing that was crashing for api response change.
+

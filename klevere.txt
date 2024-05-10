@@ -448,3 +448,23 @@ Inactive user can't login.
 1. feat: Add MemberInvitation entity and update auth service to handle user invitations.
 2. User Invitaion with mail and verify signup mail with user email.
 
+8 - 05 - 2024
+------Frontend
+1. Update Chat Page layout and styling in FormArea component for mobile responsiveness.
+2. Fixed page height and select box issue
+3. Update ImagesPage layout and styling for mobile responsiveness.
+4. Added Gird views for mobile view
+5. Update header with useEffect cleanup.
+6. Image Page responsiveness fixed.
+7. Added nav toggler in image page.
+8. RecentActivityPage responsive fix.
+9. Added nav toggler
+10. Update for responsive fix in GeneralInfoArea and ProfilePage
+11. Responsiveness fixed in BillingArea, MembersArea,
+12. API, Onboard, Referral, ReferralMembersArea and OnboardSurvey.
+13. Add sidebar toggler in ProfilePage
+14. Added responsiveness in CombinedGeneration.
+15. Added nav toggler inCombinedGeneration header
+16. Sign and Login page responsiveness fixed.
+17. CombineForm fields alignment fixed
+18. Add responsivenes PlanPage
