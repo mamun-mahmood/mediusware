@@ -14,3 +14,18 @@ Today's Update
 10. Updated api endpoints with new changes.
 11. Updated AllComments Listing that was crashing for api response change.
 
+
+Today's Update
+------------------
+14 - May -2024
+
+1. Update ngrok URLs in next.config.js
+2. Added Suspense Wrapper
+3. Refactor TreadingBlogsSection component
+4. Api data, Page Navigation Link, Text clamp for overflowing.
+5. Removed not found section
+6. Hide Similiar section.
+7. Added Link to contact page.
+8. Remove message in case of data not found.
+9. Redirects to blog added for all pages
+10. Worked on comment pagination .
