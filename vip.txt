@@ -1,0 +1,12 @@
+17 May 2024
+.....................
+Project : VIP
+.....................
+Daily Update:
+
+1. Project Setup & Overview.
+2. Explored codebase
+3. R&D on Market Result page.
+4. Trace buug on SideBySideCalculator
+5. Market name not found issue, invalid percentage filed issue.
+

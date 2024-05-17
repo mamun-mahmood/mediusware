@@ -29,3 +29,49 @@ Today's Update
 8. Remove message in case of data not found.
 9. Redirects to blog added for all pages
 10. Worked on comment pagination .
+
+Today's Update
+------------------
+15 - May -2024
+1. Refactor API URLs in getAllBlogs and getAllProjects.
+2. Added api Data in ProjectList page.
+3. Update on Project page.
+4. Added types and interface for API promise and params
+5. Adde limit for pagination.
+6. Update list card component.
+7. Fixed link to details page and slug not found
+8. Data fetching Project Details.
+9. Interface created for project details.
+10. Passing data in banner comp and styled title.
+11. Project Listing load more and fixed destructure error.
+12. Update Badge component and ProjectsListSectioncategories and projects using API calls.
+13. Add types and interfaces for API promises and params in api.ts.
+14. Created global components for Tags and Search.
+15. Added tags and search section in project.
+16. Project details page api integration:
+  -banner section
+  -overview section
+  -result section
+  -description section
+ 17. Filter by tag working
+ 18. Fixed result data not found error
+ 19. Scrolled disabled on tag change
+ 20. fixed type error in projectInterface
+ 21. Project Details page API integration
+  -Key feature section
+  -Project design section
+ 22. Project Details page API integration
+  -Key feature section
+  -Project design section
+  
+  Today's Update
+------------------
+16 - May -2024
+1. Types error fixed
+2. Project Details page technology section
+3. Added pagination in AllBlog.
+4. Featured and Popular section commente.
+5. Filter tags with 0 data
+6. Checkout component update
+
+
