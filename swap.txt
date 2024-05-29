@@ -1,0 +1,12 @@
+```May 29th 2024 [Update]```
+------------------
+
+1. Project setup, and explored codebase. Update Breadcrumb component. Fixed button design and position. 
+2. fix: Update sidebar link for roles page
+3. Reusable Cuttom Save button for common use. 
+4. feat: Add user creation page
+The commit adds a new page for creating users. It includes the necessary components, form fields, and form submission logic. This feature will allow administrators to create new users in the system.
+5. chore: Refactor userSlice.js added tag types, createUserByAdmin mutation
+6. feat: Update admin page. The commit adds Type missing fixes, Lazy query and overall comp's code refactor
+7. feat: Refactor TableThree component. Refactor the TableThree component and fixed action button position
+
