@@ -10,3 +10,20 @@ The commit adds a new page for creating users. It includes the necessary compone
 6. feat: Update admin page. The commit adds Type missing fixes, Lazy query and overall comp's code refactor
 7. feat: Refactor TableThree component. Refactor the TableThree component and fixed action button position
 
+```May 29th 2024 [Update]```
+------------------
+
+1. Create user admin update. Refactor slice and create component.
+2. Refactor the SaveButton component to use tailwind CSS classes for width, height, rounded, and background color.
+3. User create update.
+  -Fixed create payload.
+  -Added tag types to refetch user after creating.
+4. Added Status select dropdown in user create page.
+5. User table pagination fixed. Removed unused codes.
+6. Create user input box bg issue fixed
+7. Form css update, Refactored Button comp
+8. UserIndex cleanups.
+9. Added User Profile Update page.
+  -Added User update functionality.
+  -Category option in Sidebar
+
