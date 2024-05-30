@@ -10,7 +10,7 @@ The commit adds a new page for creating users. It includes the necessary compone
 6. feat: Update admin page. The commit adds Type missing fixes, Lazy query and overall comp's code refactor
 7. feat: Refactor TableThree component. Refactor the TableThree component and fixed action button position
 
-```May 29th 2024 [Update]```
+```May 30th 2024 [Update]```
 ------------------
 
 1. Create user admin update. Refactor slice and create component.
@@ -24,6 +24,11 @@ The commit adds a new page for creating users. It includes the necessary compone
 7. Form css update, Refactored Button comp
 8. UserIndex cleanups.
 9. Added User Profile Update page.
+  -Fetch user details on edit page.
   -Added User update functionality.
   -Category option in Sidebar
+10. Update on Brands table, create and update. 
+  -Added BrandCreateAndUpdate Page.
+  -Adeed routes and API for brand creation.
+  -Fixed table description overflowing.
 
