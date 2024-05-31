@@ -32,3 +32,33 @@ The commit adds a new page for creating users. It includes the necessary compone
   -Adeed routes and API for brand creation.
   -Fixed table description overflowing.
 
+```May 31th 2024 [Update]```
+------------------
+
+1. Updates for Category.
+    -Creategory Listing page.
+    -Category Crate and update page.
+    -Added route to category pages.
+    -Added categorySlice api.
+    -Fixed typo in sidebar.
+2. Fixed category pagination
+3. Update on Sidebar.
+   -Reusable Navlink component.
+   -Listing option by maping nav data.
+   -Added swap logo.
+   -Removed unused codes.
+4. Update on Custom Element
+    -Reusable input and text area
+    -update category edit form
+5. Update on custom elements and page nav
+    -Added Page Nav with search field
+    -Added Reusable inputs with loading state and suffix
+6. Fixed page nav create button.
+  -Added dynamic icon showing
+7. Update on Search functionality
+    -Added Dynamic SearchField with loading state, icon and clear option
+    -Brand list search functionality
+    -Added search param in bran list api.
+8. Created Resuable CreateAndUpdate form for global use.
+  -Refactored Brand Create page with New form comp
+
