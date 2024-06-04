@@ -61,4 +61,64 @@ The commit adds a new page for creating users. It includes the necessary compone
     -Added search param in bran list api.
 8. Created Resuable CreateAndUpdate form for global use.
   -Refactored Brand Create page with New form comp
+  
+  
+  
+  
+  ```June 2nd 2024 [Update]```
+------------------
+    1. Refactor listing pages for Brands, Category, Sizes, and Colors 
+    2. Added Color preview in color list table.
+    3. Update on size page
+        i. Update on size page
+        ii.  Added Size create and upate page.
+        iii.  Fixed active nav selected on page.
+        iv.  Pagination for size list.
+        v.  Fixed typoes in table columns and data key.
+    4. Update on color page
+        i.  Added color create and upate page.
+        ii. Pagination and search for color list.
+    5. Update on Sizes, Brands and Colors.
+        i.    Added search
+        ii.    Fixed pagination
+        iii.    Fixed fetch query for pagination.
+    6. Add search functionality and fix pagination for Sizes, Brands, and Colors
+    7. Fixed Create update
+        i. New outlined reusable button.
+    8. Update on Pagenav and Form Fields
+        i. Create reusable com for SelectInput.
+        ii. Fixed Page text color issue.
+    9. Header cleanup.
+        i.  Removed unsued codes and elements.
+        ii.  Create User page Select option added
+        iii.  Fixed button position.
+        iv.  Fixed form submit.
 
+```June 4nd 2024 [Update]```
+------------------
+
+    1. Update theme.
+        i.  Fixed color with secondary color from logo.
+        ii.  Added Loading spinner and logo as a loader in first load.
+    2. Code refactored, cleanups and bug fixes.
+        i.  Update .js file to ts.
+        ii.  Fixed Serachbox loading
+        iii.  Highlight Sibar active option .
+        iv.  Added interface for User Details data
+    3. Update on User Edit page.
+        i.  Added Image and PDF block.
+        ii.  Preview Image on click and open pdf.
+        iii.  Create Reusable Image comps.
+        iv.  Change loading spinner
+    4. Added Status, and Date colmuns in user list table
+        i.  Showing create data and status.
+    5. Admin Page udpate
+        i.  Added create and update page.
+        ii.  Admin Create funcionality.
+        iii.  Search and pagination
+    6. Update on roles.
+        i.  Created role page
+        ii.  Update page nav component
+        iii.  Added role Create and Edit page
+        iv.  Role create and edit functionality
+        v.  Role listing
