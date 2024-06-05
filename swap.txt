@@ -122,3 +122,27 @@ The commit adds a new page for creating users. It includes the necessary compone
         iii.  Added role Create and Edit page
         iv.  Role create and edit functionality
         v.  Role listing
+        
+```June 5th 2024 [Update]```
+------------------
+
+    1. Update on Admin
+        i.  Fetching roles and list in select option on admin edit page
+        ii.  Admin select role on create and update.
+        iii.  Added tags types to refetch after update
+    2. Update on color page
+        i.  Added select publish status.
+        ii.  Update payload.
+        iii.  Added Navigate to Create.
+    3. Update on Category and Size page
+        i.  Added select field
+        ii.  Update and create with is published option.
+    4. Update on admin.
+        i.  Added role and create colums in table list
+    5. Fixed date and format and publish status showing in brands, categories, size and color list
+    6. Added Resuable Modal comp
+    7. Update on Role and Permission
+        i.  Added permission slice
+        ii.  Role Permission api
+        iii.  Rolese and permission page.
+        iv.  Dynamic form with checbox to list and select permissions .
