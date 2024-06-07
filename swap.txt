@@ -146,3 +146,22 @@ The commit adds a new page for creating users. It includes the necessary compone
         ii.  Role Permission api
         iii.  Rolese and permission page.
         iv.  Dynamic form with checbox to list and select permissions .
+        
+        
+```June 7th 2024 [Update]```
+------------------
+
+    1. Update on Roles & Permission and UI.
+        (i)  Permission Edit and update for roles.
+        (ii)  Assigned permissions selected on ui.
+        (iii)  Admin can Assign permission and edit.
+        (iv)  Improved UI allgnment and positioning with Container for List and Edit page.
+    2. Container updated with loading and opactity modifed
+        (i) Created common layout for child page
+        (ii) List and edit page has same layout to prevent over scroll
+    3. Update on Roles and Permission
+        (i)  Created Higher Order Comp for role check.
+        (ii)  Wrapped all listing and Create page with Role authorization.
+        (iii)  Admin can give assign permission.
+        (iv)  Sidebar menus will be showing based on role.
+        (v)  Route protected with HOC.
