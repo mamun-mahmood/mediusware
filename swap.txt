@@ -165,3 +165,19 @@ The commit adds a new page for creating users. It includes the necessary compone
         (iii)  Admin can give assign permission.
         (iv)  Sidebar menus will be showing based on role.
         (v)  Route protected with HOC.
+```June 10th 2024 [Update]```
+------------------
+
+    1. Code spliting and Sperate components
+        (i)  Added Common Form to reduce code repeat.
+        (ii)  Replaced all create update with new From comp.
+        (iii)  Added types and const data for all form fields
+    2. Added Redirection on base query.
+        (i)  User will be logged out and session cleared on token expires or user delete.
+    3. Update Role and Permission.
+        (i)  On edit, Toggle All select and all brand select.
+    4. Update on user profile page.
+        (i)  Created profile page with edit form.
+        (ii)  Added image preview and upload field and function to get image url.
+        (iii)  Modifed dropdown in navbar.
+    5. Brand edit page loading state added
