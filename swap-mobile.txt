@@ -1,0 +1,11 @@
+```Jun 11th 2024 [Update]```
+------------------
+Swap Moblie App
+
+1. App initialized with react native cli.
+2. Folder structurs and routes setup
+3. Eslint, babel, and typescript configuration.
+  -Setup nativewind.
+4. Configured Screen navigation
+  -Added React Nagigation lib
+  -Bottom Tab navigator added
