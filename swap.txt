@@ -181,3 +181,18 @@ The commit adds a new page for creating users. It includes the necessary compone
         (ii)  Added image preview and upload field and function to get image url.
         (iii)  Modifed dropdown in navbar.
     5. Brand edit page loading state added
+    
+    
+    
+    Today's Update
+-----------------
+11-07-2024
+-----------------
+1. Update on accout page.
+-Find messing filed and show alert.
+-Show alert for Admin approval and Subscription
+2. Redirect with login after singup.
+Profile Edit error handled.
+3. EIN number should not limit characters.
+-To upload documents and photo, while clicking on the “PDF” and “Photo” icons.
+4. Home hero section fixed.
