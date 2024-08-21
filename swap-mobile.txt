@@ -9,3 +9,15 @@ Swap Moblie App
 4. Configured Screen navigation
   -Added React Nagigation lib
   -Bottom Tab navigator added
+  
+
+Date: 21/08/2024
+
+1. App container and Layout update.
+2. Added input validatin for Login form.
+Added strict types for resuabel components.
+3. Navigation prop types udpate
+4. Signup page [Done].
+Routes and navigation to Signup page.
+5. Singup form added.
+Added schema validation with zod.
