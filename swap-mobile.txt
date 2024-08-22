@@ -21,3 +21,16 @@ Added strict types for resuabel components.
 Routes and navigation to Signup page.
 5. Singup form added.
 Added schema validation with zod.
+
+
+22 - August - 2024
+------------------
+Swap Moblie App
+-App container and Layout update.
+-Added input validatin for Login form.
+Added strict types for resuabel components.
+-Navigation prop types udpate
+-Signup page [Done].
+Routes and navigation to Signup page.
+-Singup form added.
+Added schema validation with zod.
